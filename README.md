@@ -15,7 +15,7 @@ Our paper is currently under review, and the code of ImMesh will be released as 
 </div>
 
 ### 1.1 Our paper
-Coming in recent days...
+Will be released in recent days...
 
 
 ### 1.2 Our accompanying videos
